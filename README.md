@@ -1,4 +1,7 @@
-# api documentation for  [fromage (v1.0.1)](https://github.com/pcanella/fromage)  [![npm package](https://img.shields.io/npm/v/npmdoc-fromage.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fromage) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fromage.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fromage)
+# npmdoc-fromage
+
+#### api documentation for  [fromage (v1.0.1)](https://github.com/pcanella/fromage)  [![npm package](https://img.shields.io/npm/v/npmdoc-fromage.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fromage) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fromage.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fromage)
+
 #### Turn a query string into an object
 
 [![NPM](https://nodei.co/npm/fromage.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fromage)
@@ -49,7 +52,8 @@
         "url": "git+https://github.com/pcanella/fromage.git"
     },
     "scripts": {},
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
